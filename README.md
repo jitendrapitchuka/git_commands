@@ -1,2 +1,4 @@
 # git_commands
-repo for git commands and testing
+
+staging files(track files)
+> git add file_name
